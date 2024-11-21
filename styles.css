@@ -360,7 +360,7 @@
   line-height: 1.6;
 }
 
-@media (mad-width: 768px) {
+@media (max-width: 768px) {
   .features-grid {
     flex-direction: column;
     align-items: center;
